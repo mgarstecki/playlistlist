@@ -1,5 +1,7 @@
 # playlistlist
 
+[![Build Status](https://travis-ci.org/mgarstecki/playlistlist.svg?branch=master)](https://travis-ci.org/mgarstecki/playlistlist)
+
 Generates a circular list of playlists from music albums.
 
 ## Why ?
