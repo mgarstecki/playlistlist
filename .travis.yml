@@ -1,5 +1,4 @@
 language: ruby
 
 script:
-  - rake spec
-  - rake trololo
+  - bundle exec rake spec
